@@ -57,8 +57,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoAlighieri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitoAlighieri&theme=dracula&hide_border=true&radius=15" height="150" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=VitoAlighieri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  
   ![](https://github-contributor-stats.vercel.app/api?username=VitoAlighieri&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 </div>
 
