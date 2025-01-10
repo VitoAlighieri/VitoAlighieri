@@ -65,8 +65,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VitoAlighieri/VitoAlighieri/output/snake.svg" alt="Snake animation" />
-
 ###
 
 # 📊 GitHub Stats:
